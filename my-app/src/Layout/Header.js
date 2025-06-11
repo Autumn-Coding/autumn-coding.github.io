@@ -8,6 +8,12 @@ function Header() {
         className={({ isActive}) =>
           isActive ? 'nav-link active' : 'nav-link'
       }>
+        (insert image here)
+      </NavLink>
+      <NavLink to="/"
+        className={({ isActive}) =>
+          isActive ? 'nav-link active' : 'nav-link'
+      }>
         Home
       </NavLink>
       <NavLink to="/about"
