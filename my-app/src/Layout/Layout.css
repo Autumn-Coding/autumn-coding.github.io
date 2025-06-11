@@ -2,7 +2,7 @@
 .Header {
   width: 100vw;
   height: 10vh;
-  background-color: white;
+  background-color: #C7FFD8;
   display: flex;
   justify-content: space-evenly;
   position: fixed;
@@ -11,7 +11,8 @@
 .nav-link {
     margin: 10px;
     height: 100%;
-    background-color: rgb(138, 178, 128);
+    background-color: white;
+    color: rgb(138, 178, 128);
 }
 
 .nav-link.active {
