@@ -1,6 +1,6 @@
 import Body from './Body';
 import Header from './Header';
-import { Outlet, Link } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 
 function Layout() {
   return (
