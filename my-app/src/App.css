@@ -2,8 +2,7 @@
   background-color: white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: stretch;
   align-items: center;
-  align-content: stretch;
   min-height: 100vh;
 }
