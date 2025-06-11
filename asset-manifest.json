@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/autumn-coding.github.io/static/css/main.bb3c8289.css",
-    "main.js": "/autumn-coding.github.io/static/js/main.e17dc946.js",
+    "main.css": "/autumn-coding.github.io/static/css/main.d485795a.css",
+    "main.js": "/autumn-coding.github.io/static/js/main.1751ee1c.js",
     "static/js/453.ed3810f9.chunk.js": "/autumn-coding.github.io/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/autumn-coding.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/autumn-coding.github.io/index.html",
-    "main.bb3c8289.css.map": "/autumn-coding.github.io/static/css/main.bb3c8289.css.map",
-    "main.e17dc946.js.map": "/autumn-coding.github.io/static/js/main.e17dc946.js.map",
+    "main.d485795a.css.map": "/autumn-coding.github.io/static/css/main.d485795a.css.map",
+    "main.1751ee1c.js.map": "/autumn-coding.github.io/static/js/main.1751ee1c.js.map",
     "453.ed3810f9.chunk.js.map": "/autumn-coding.github.io/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb3c8289.css",
-    "static/js/main.e17dc946.js"
+    "static/css/main.d485795a.css",
+    "static/js/main.1751ee1c.js"
   ]
 }
