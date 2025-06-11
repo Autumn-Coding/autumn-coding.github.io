@@ -1,0 +1,14 @@
+/* Header */
+.Header {
+  width: 100%;
+  height: 300px;
+  background-color: white;
+}
+
+.nav-link {
+
+}
+
+.nav-link.active {
+    font-weight: bold;
+}

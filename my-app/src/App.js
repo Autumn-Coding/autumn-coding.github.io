@@ -1,20 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
+import Layout from './Layout/Layout';
+import { Home, HomeHeader } from './Home';
+import { About, AboutHeader } from './About';
 
-function Header() {
-  return (
-    <div className="Header">
-      <p>Hello</p>
-    </div>
-  );
-}
 
 function App() {
   return (
-    <div className="Main">
-      <Header />
-      <h1>Hello</h1>
-    </div>
+    <BrowserRouter className="mainBody">
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="about" element={<About />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
