@@ -6,7 +6,6 @@
   display: flex;
   justify-content: space-evenly;
   position: fixed;
-  padding: 10px;
 }
 
 .nav-link {
@@ -17,6 +16,8 @@
     text-decoration: none;
     display: flex;
     align-items: center;
+    text-align: center;
+    margin: 10px;
 }
 
 .nav-link.active {
@@ -30,4 +31,5 @@
     width: 80vw;
     flex-grow: 1;
     background-color: #C7FFD8;
+    margin: 50px 0px;
 }
