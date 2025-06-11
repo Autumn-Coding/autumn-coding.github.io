@@ -5,6 +5,7 @@
   background-color: white;
   display: flex;
   justify-content: space-evenly;
+  position: fixed;
 }
 
 .nav-link {
@@ -15,4 +16,12 @@
 
 .nav-link.active {
     font-weight: bold;
+}
+
+
+
+/* Body */
+.Body {
+    width: 80vh;
+    height: 80%;
 }
