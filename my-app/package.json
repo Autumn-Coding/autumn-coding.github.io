@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://autumn-coding.github.io/autumn-coding.github.io",
+  "homepage": "https://autumn-coding.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
