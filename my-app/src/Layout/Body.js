@@ -1,5 +1,4 @@
-import { useLayoutEffect } from 'react';
-import { Outlet, Link } from 'react-router-dom';
+import { Outlet, Link } from 'react-router-dom';import { useLayoutEffect } from 'react';
 
 function Body() {
   return (
@@ -9,4 +8,4 @@ function Body() {
   );
 }
 
-export default useLayoutEffect;
+export default Body;
