@@ -11,8 +11,10 @@
 .nav-link {
     margin: 10px;
     height: 100%;
+    width: 80%;
     background-color: white;
     color: rgb(138, 178, 128);
+    text-decoration: none;
 }
 
 .nav-link.active {
@@ -23,6 +25,6 @@
 
 /* Body */
 .Body {
-    width: 80vh;
-    height: 80%;
+    width: 80vw;
+    background-color: #C7FFD8;
 }
