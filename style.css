@@ -58,6 +58,7 @@ nav {
   text-align: center;
   flex-grow: 1;
   line-height: 100px;
+  padding-bottom: 20px;
 }
 
 nav a {
