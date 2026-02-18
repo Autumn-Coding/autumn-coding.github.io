@@ -65,6 +65,14 @@ nav a:hover {
   color: white;
 }
 
+.thisPage {
+  background: #e6f2ff;
+  text-align: center;
+  flex-grow: 1;
+  line-height: 100px;
+  transition: 0.3s;
+}
+
 .page {
   display: flex;
   flex-direction: column;
