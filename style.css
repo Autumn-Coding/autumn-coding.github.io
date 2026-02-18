@@ -53,6 +53,13 @@ nav {
   align-items: center;
 }
 
+.thisPage {
+  background: #e6f2ff;
+  text-align: center;
+  flex-grow: 1;
+  line-height: 100px;
+}
+
 nav a {
   text-align: center;
   flex-grow: 1;
@@ -63,14 +70,6 @@ nav a {
 nav a:hover {
   background: #204781;
   color: white;
-}
-
-.thisPage {
-  background: #e6f2ff;
-  text-align: center;
-  flex-grow: 1;
-  line-height: 100px;
-  transition: 0.3s;
 }
 
 .page {
