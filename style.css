@@ -25,7 +25,6 @@ body {
 a {
   text-decoration: none;
   color: #001f4d;
-  font-weight: bold;
 }
 
 #header, #footer {
@@ -52,6 +51,7 @@ nav {
   justify-content: space-evenly;
   align-items: center;
   font-size: 13px;
+  font-weight: normal;
 }
 
 .thisPage {
@@ -64,7 +64,6 @@ nav {
   margin-top: 20px;
   padding: 10px;
   color: #001f4d;
-  font-weight: bold;
 }
 
 nav a {
