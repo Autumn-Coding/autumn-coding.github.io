@@ -135,7 +135,6 @@ nav a:hover {
   height: 100%;
   padding: 15px;
   color: #003380;
-  align-items: center;
   display: flex;
   flex-direction: column;
   overflow: scroll;
