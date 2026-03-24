@@ -137,6 +137,7 @@ nav a:hover {
   color: #003380;
   align-items: center;
   display: flex;
+  flex-direction: column;
   overflow: scroll;
 }
 
