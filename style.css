@@ -140,6 +140,7 @@ nav a:hover {
   flex-direction: column;
   box-shadow: 0 4px 0 0 white inset;
   overflow: scroll;
+  text-align: left;
 }
 
 .contentBoxLarge .contentHolder {
